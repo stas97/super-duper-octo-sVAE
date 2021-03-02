@@ -23,4 +23,7 @@ Anastas Magdych
 
 ## S-VAE
 
+A S-VAE is a variational auto-encoder with a hyperspherical latent space. In our paper we propose to use the von Mises-Fisher (vMF) distribution to achieve this, under which the Uniform distribution on the hypersphere is recovered as a special case. Hence this approach allows for a truly uninformative prior, with a clear advantage for data with a hyperspherical latent representation.
+
+
 https://nicola-decao.github.io/s-vae.html
