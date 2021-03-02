@@ -10,6 +10,13 @@ A repository where the codebase for Advanced Machine Learning (DTU-course) proje
 
 Git is a cool co-working/versioning/organising tool. Totally worth it to use. 
 
+## Who super-duper-octo-sVAE?
+
+Till Ariel Aczél  
+August Birk Bak-Jensen  
+Marius-Cristian Mic  
+Anastas Magdych
+
 ## S-VAE
 
 https://nicola-decao.github.io/s-vae.html
